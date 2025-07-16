@@ -1,5 +1,5 @@
 # THREAT-CAMPAIGNS
-Through real-time proactiveness Cyber Threat Intelligence can be actionable and useful, active campaigns that don't normally get published because it lacks trending headlines. Campaigns that are 
+Through real-time proactiveness Cyber Threat Intelligence can be actionable and useful, active campaigns that don't normally get published because it lacks trending headlines. Campaigns that are actively breaching customers stealing credentials every single day.
 # This is an AI ticketing tool used by threat actors to impersonate hundreds of U.S entities in a phishing campaign. There are public submissions to these credential harvesting domains with actors evolving to layered stages to evade detection and maintain trust using tactics such as Cloudflare turnstiles, REcaptcha, Clickfix, and Filefix etc.
 <img width="794" height="536" alt="image" src="https://github.com/user-attachments/assets/0e1854fc-2a7c-40ec-b0c5-343f2651f599" />
 <img width="1010" height="557" alt="image" src="https://github.com/user-attachments/assets/8d27183d-df6c-48a9-b167-d52da990fc60" />
